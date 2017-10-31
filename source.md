@@ -1,62 +1,41 @@
-class: center, middle
-
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 王淦 (1700011722@pku.edu.cn)  
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+主页: https://github.com/Amakage
 
 ---
 
-## 第一部分
+## 我的兴趣爱好
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+### <font color="orangered">1. 我的兴趣爱好</font>
 
----
+#### &nbsp; &nbsp; 1.1 排球
+#### &nbsp; &nbsp; 1.2 音游
+#### &nbsp; &nbsp; 1.3 乐器
 
-## 插图
-
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+### 2. 我是一个乐观、开朗、热心、爱笑的男生，希望能和大家交朋友！
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 座右铭
 
-
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+所有的遗憾都是未来的希冀。
 
 ---
 
-class: center, middle
+## 欢迎加入猫协
+
+** Welcome！ **
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Felis_silvestris_silvestris.jpg?uselang=zh-cn" width=300 style="margin: 0px 80px">
+
+---
+
+---
+
 
 # 谢谢
